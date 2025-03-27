@@ -20,3 +20,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# 忽略 build 文件夹
+build/
+
+# 忽略 install 文件夹
+install/
+
+# 忽略的 log 文件
+log/
